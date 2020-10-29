@@ -1,0 +1,30 @@
+.App {
+  font-family: "Fira Sans", sans-serif;
+  text-align: center;
+  font-size: 16px;
+}
+
+.progress-wrapper {
+  height: 350px;
+}
+
+.button_action {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  background: #ed2a26;
+  padding: 9px 15px;
+  border: 1px solid #ed2a26;
+  box-shadow: none;
+  outline: 0;
+}
+
+.button_action:hover {
+  color: #fff !important;
+  background: #454545;
+  cursor: pointer;
+}
+
+.mr-3 {
+  margin-right: 1rem;
+}
